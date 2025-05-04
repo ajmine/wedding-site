@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wedding-site/static/css/main.6216a1ed.css",
-    "main.js": "/wedding-site/static/js/main.c1846eb5.js",
-    "static/media/proposal-7.jpg": "/wedding-site/static/media/proposal-7.a714edc75e2e1568d75e.jpg",
-    "static/media/proposal-6.jpg": "/wedding-site/static/media/proposal-6.f4622c17bf2205f9cb2b.jpg",
-    "static/media/proposal-5.jpg": "/wedding-site/static/media/proposal-5.73742c84243ba65bcd75.jpg",
-    "static/media/proposal-1.jpg": "/wedding-site/static/media/proposal-1.d65428cde074cabe4398.jpg",
-    "static/media/toronto.jpg": "/wedding-site/static/media/toronto.4dde555103e9c2cb8c27.jpg",
-    "static/media/regina.jpg": "/wedding-site/static/media/regina.a73ffd75c579b5bb5e9d.jpg",
-    "static/media/arrow.svg": "/wedding-site/static/media/arrow.3c9ec882e72fda6da374.svg",
-    "index.html": "/wedding-site/index.html",
-    "static/media/marker.svg": "/wedding-site/static/media/marker.8527a8d7892eb2c47b3171bf1b2b0118.svg",
-    "static/media/hanger.svg": "/wedding-site/static/media/hanger.6842a5641cb56e40945deccb22b966e5.svg",
-    "static/media/chevron.svg": "/wedding-site/static/media/chevron.637c1521a2c3ba9284fa1009106337ec.svg",
-    "main.6216a1ed.css.map": "/wedding-site/static/css/main.6216a1ed.css.map",
-    "main.c1846eb5.js.map": "/wedding-site/static/js/main.c1846eb5.js.map"
+    "main.css": "/static/css/main.a30b14d4.css",
+    "main.js": "/static/js/main.8398eb1d.js",
+    "static/media/proposal-7.jpg": "/static/media/proposal-7.a714edc75e2e1568d75e.jpg",
+    "static/media/proposal-6.jpg": "/static/media/proposal-6.f4622c17bf2205f9cb2b.jpg",
+    "static/media/proposal-5.jpg": "/static/media/proposal-5.73742c84243ba65bcd75.jpg",
+    "static/media/proposal-1.jpg": "/static/media/proposal-1.d65428cde074cabe4398.jpg",
+    "static/media/toronto.jpg": "/static/media/toronto.4dde555103e9c2cb8c27.jpg",
+    "static/media/regina.jpg": "/static/media/regina.a73ffd75c579b5bb5e9d.jpg",
+    "static/media/arrow.svg": "/static/media/arrow.3c9ec882e72fda6da374.svg",
+    "index.html": "/index.html",
+    "static/media/marker.svg": "/static/media/marker.8527a8d7892eb2c47b3171bf1b2b0118.svg",
+    "static/media/hanger.svg": "/static/media/hanger.6842a5641cb56e40945deccb22b966e5.svg",
+    "static/media/chevron.svg": "/static/media/chevron.637c1521a2c3ba9284fa1009106337ec.svg",
+    "main.a30b14d4.css.map": "/static/css/main.a30b14d4.css.map",
+    "main.8398eb1d.js.map": "/static/js/main.8398eb1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6216a1ed.css",
-    "static/js/main.c1846eb5.js"
+    "static/css/main.a30b14d4.css",
+    "static/js/main.8398eb1d.js"
   ]
 }
