@@ -1,23 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.a30b14d4.css",
-    "main.js": "/static/js/main.8398eb1d.js",
+    "main.css": "/static/css/main.77f6eb5b.css",
+    "main.js": "/static/js/main.ccd7d863.js",
     "static/media/proposal-7.jpg": "/static/media/proposal-7.a714edc75e2e1568d75e.jpg",
     "static/media/proposal-6.jpg": "/static/media/proposal-6.f4622c17bf2205f9cb2b.jpg",
     "static/media/proposal-5.jpg": "/static/media/proposal-5.73742c84243ba65bcd75.jpg",
     "static/media/proposal-1.jpg": "/static/media/proposal-1.d65428cde074cabe4398.jpg",
-    "static/media/toronto.jpg": "/static/media/toronto.4dde555103e9c2cb8c27.jpg",
-    "static/media/regina.jpg": "/static/media/regina.a73ffd75c579b5bb5e9d.jpg",
+    "static/media/rouge_park.jpg": "/static/media/rouge_park.4da8a8deff5daca43295.jpg",
+    "static/media/lawrence_market.jpg": "/static/media/lawrence_market.557f672be352c934e283.jpg",
+    "static/media/legislative_building.jpg": "/static/media/legislative_building.9857e0a243cc16743f9a.jpg",
+    "static/media/karahi_boys.jpg": "/static/media/karahi_boys.03b9f72ee980dd90124b.jpg",
+    "static/media/regina_downtown.jpg": "/static/media/regina_downtown.f838def6079aceeb8770.jpg",
+    "static/media/centre_island.jpg": "/static/media/centre_island.98fae0ec5ec80cde786f.jpg",
+    "static/media/dakota_dunes.jpg": "/static/media/dakota_dunes.c103cf7293de2fbf4e25.jpg",
+    "static/media/amal.jpg": "/static/media/amal.da4cd97cbe57225bb951.jpg",
+    "static/media/cn_tower.jpg": "/static/media/cn_tower.4dde555103e9c2cb8c27.jpg",
+    "static/media/luna_kitchen.jpg": "/static/media/luna_kitchen.9a2ae55f5b4b6711ef2a.jpg",
+    "static/media/niagara_falls.jpg": "/static/media/niagara_falls.d1e25e106ee812e2be76.jpg",
+    "static/media/churchill_river.jpg": "/static/media/churchill_river.e0ed22c65b896be64e16.jpg",
+    "static/media/prairie_summers.jpg": "/static/media/prairie_summers.f4f375d41c413d8d26b9.jpg",
+    "static/media/dandys.jpg": "/static/media/dandys.a2267071e8f11d253c8c.jpg",
+    "static/media/prairie_sunsets.jpg": "/static/media/prairie_sunsets.9ccb4167945e8173833e.jpg",
+    "static/media/everyday_kitchen.jpg": "/static/media/everyday_kitchen.0e6b5b9754f2ddab516c.jpg",
+    "static/media/tfc_game.jpg": "/static/media/tfc_game.17c9fcd8bbbad5ac1565.jpg",
+    "static/media/scarborough_bluffs.jpg": "/static/media/scarborough_bluffs.25be6b01fc47886f9c82.jpg",
+    "static/media/little_canada.jpg": "/static/media/little_canada.a70f0ea65b730a5efb8f.jpg",
     "static/media/arrow.svg": "/static/media/arrow.3c9ec882e72fda6da374.svg",
     "index.html": "/index.html",
     "static/media/marker.svg": "/static/media/marker.8527a8d7892eb2c47b3171bf1b2b0118.svg",
     "static/media/hanger.svg": "/static/media/hanger.6842a5641cb56e40945deccb22b966e5.svg",
     "static/media/chevron.svg": "/static/media/chevron.637c1521a2c3ba9284fa1009106337ec.svg",
-    "main.a30b14d4.css.map": "/static/css/main.a30b14d4.css.map",
-    "main.8398eb1d.js.map": "/static/js/main.8398eb1d.js.map"
+    "main.77f6eb5b.css.map": "/static/css/main.77f6eb5b.css.map",
+    "main.ccd7d863.js.map": "/static/js/main.ccd7d863.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30b14d4.css",
-    "static/js/main.8398eb1d.js"
+    "static/css/main.77f6eb5b.css",
+    "static/js/main.ccd7d863.js"
   ]
 }
