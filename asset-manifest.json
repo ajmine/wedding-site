@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.77f6eb5b.css",
+    "main.css": "/static/css/main.2dfbeb94.css",
     "main.js": "/static/js/main.e031e0fb.js",
     "static/media/proposal-7.jpg": "/static/media/proposal-7.a714edc75e2e1568d75e.jpg",
     "static/media/proposal-6.jpg": "/static/media/proposal-6.f4622c17bf2205f9cb2b.jpg",
@@ -30,11 +30,11 @@
     "static/media/marker.svg": "/static/media/marker.8527a8d7892eb2c47b3171bf1b2b0118.svg",
     "static/media/hanger.svg": "/static/media/hanger.6842a5641cb56e40945deccb22b966e5.svg",
     "static/media/chevron.svg": "/static/media/chevron.637c1521a2c3ba9284fa1009106337ec.svg",
-    "main.77f6eb5b.css.map": "/static/css/main.77f6eb5b.css.map",
+    "main.2dfbeb94.css.map": "/static/css/main.2dfbeb94.css.map",
     "main.e031e0fb.js.map": "/static/js/main.e031e0fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f6eb5b.css",
+    "static/css/main.2dfbeb94.css",
     "static/js/main.e031e0fb.js"
   ]
 }
